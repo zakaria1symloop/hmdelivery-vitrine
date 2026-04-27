@@ -317,9 +317,9 @@ export const WILAYAS = [
 
 // Contact
 export const CONTACT_INFO = {
-  email: "contact@hmprodelivery.com",
-  phone: "+213 (0) 778 789 784",
-  address: { fr: "Setif, Algerie", ar: "سطيف، الجزائر" } as T,
+  email: "hmprodelivery@gmail.com",
+  phone: "0770719520",
+  address: { fr: "Biskra, Algerie", ar: "بسكرة، الجزائر" } as T,
 };
 
 // Footer
